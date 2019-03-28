@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlayWithFregmant</string>
+    <string name="btnAddFreg1">Add Fregmant 1</string>
+    <string name="btnAddFreg2">Add Fregmant 2</string>
+    <string name="btnAddFreg3">Add Fregmant 3</string>
+    <string name="btnReplaceFreg4">Replace Fregmant 4</string>
+    <string name="btnRemoveFreg">Remove Fregmant</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
