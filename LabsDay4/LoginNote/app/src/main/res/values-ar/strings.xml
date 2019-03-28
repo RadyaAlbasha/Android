@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الملاحظات</string>
+    <string name="title">العنوان</string>
+    <string name="noteBody">الملاحظة</string>
+    <string name="hintBody">أدخل ملاحظتك هنا</string>
+    <string name="next">التالي</string>
+    <string name="close">أغلاق</string>
+    <string name="btnRegister">تسجيل</string>
+    <string name="btnLoginS">دخول</string>
+    <string name="username">إسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="LSQL">Load SQL</string>
+    <string name="SSQL">save SQL</string>
+    <string name="SIS">Save Internal Storage</string>
+    <string name="LIS">Load Internal Storage</string>
+</resources>

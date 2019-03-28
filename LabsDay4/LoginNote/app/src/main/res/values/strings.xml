@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginNote</string>
+    <string name="title">Title</string>
+    <string name="noteBody">Note Body</string>
+    <string name="hintBody">Your Note</string>
+    <string name="next">Next</string>
+    <string name="close">Close</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnLoginS">Login</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="LSQL">Load SQL</string>
+    <string name="SSQL">save SQL</string>
+    <string name="SIS">Save Internal Storage</string>
+    <string name="LIS">Load Internal Storage</string>
+</resources>
