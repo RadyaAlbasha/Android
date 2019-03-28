@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">الرسائل</string>
+    <string name="mobileNumber">رقم الهاتف</string>
+    <string name="message">الرسالة</string>
+    <string name="hintMessage">رسالتك</string>
+    <string name="next">التالي</string>
+    <string name="close">اغلاق</string>
+</resources>
